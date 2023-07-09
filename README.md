@@ -1,0 +1,1 @@
+# recover-wallet.dat
